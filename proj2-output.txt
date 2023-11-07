@@ -1,0 +1,72 @@
+Last login: Wed Sep 13 18:19:43 on ttys000
+kgarg@autoreg-4848343 proj2 % ./proj2 proj2.c
+ascii = 8578, upper-case = 184, lower-case = 3822, digits = 127, spaces = 2886 out of 8578 bytes
+kgarg@autoreg-4848343 proj2 % ./proj2 proj2.c 8193
+You can enter a maximum of 8192 for byte read size
+kgarg@autoreg-4848343 proj2 % ./proj2 proj2.c 8   
+ascii = 8578, upper-case = 184, lower-case = 3822, digits = 127, spaces = 2886 out of 8578 bytes
+kgarg@autoreg-4848343 proj2 % ./proj2 proj2.c 1
+ascii = 8578, upper-case = 184, lower-case = 3822, digits = 127, spaces = 2886 out of 8578 bytes
+kgarg@autoreg-4848343 proj2 % ./proj2 hello.txt
+ascii = 6, upper-case = 0, lower-case = 0, digits = 6, spaces = 0 out of 6 bytes
+kgarg@autoreg-4848343 proj2 % ./proj2 hello.txt 100000
+You can enter a maximum of 8192 for byte read size
+kgarg@autoreg-4848343 proj2 % ./proj2 hello.txt mmap  
+ascii = 6, upper-case = 0, lower-case = 0, digits = 6, spaces = 0 out of 6 bytes
+kgarg@autoreg-4848343 proj2 % ./proj2 proj2.c mmap  
+ascii = 8578, upper-case = 184, lower-case = 3822, digits = 127, spaces = 2886 out of 8578 bytes
+kgarg@autoreg-4848343 proj2 % ./proj2 proj2.c p1  
+ascii = 8578, upper-case = 184, lower-case = 3822, digits = 127, spaces = 2886 out of 8578 bytes
+kgarg@autoreg-4848343 proj2 % ./proj2 proj2.c p2
+ascii = 4289, upper-case = 164, lower-case = 2068, digits = 75, spaces = 1168 out of 4289 bytes
+ascii = 4289, upper-case = 20, lower-case = 1754, digits = 52, spaces = 1718 out of 4289 bytes
+kgarg@autoreg-4848343 proj2 % ./proj2 proj2.c p3
+ascii = 2859, upper-case = 138, lower-case = 1458, digits = 49, spaces = 660 out of 2859 bytes
+ascii = 2859, upper-case = 33, lower-case = 1086, digits = 34, spaces = 1241 out of 2859 bytes
+ascii = 2860, upper-case = 13, lower-case = 1278, digits = 44, spaces = 985 out of 2860 bytes
+kgarg@autoreg-4848343 proj2 % ./proj2 hello.txt p1
+ascii = 6, upper-case = 0, lower-case = 0, digits = 6, spaces = 0 out of 6 bytes
+kgarg@autoreg-4848343 proj2 % ./proj2 hello.txt p6
+ascii = 1, upper-case = 0, lower-case = 0, digits = 1, spaces = 0 out of 1 bytes
+ascii = 1, upper-case = 0, lower-case = 0, digits = 1, spaces = 0 out of 1 bytes
+ascii = 1, upper-case = 0, lower-case = 0, digits = 1, spaces = 0 out of 1 bytes
+ascii = 1, upper-case = 0, lower-case = 0, digits = 1, spaces = 0 out of 1 bytes
+ascii = 1, upper-case = 0, lower-case = 0, digits = 1, spaces = 0 out of 1 bytes
+ascii = 1, upper-case = 0, lower-case = 0, digits = 1, spaces = 0 out of 1 bytes
+kgarg@autoreg-4848343 proj2 % ./proj2 hello.txt p10
+ascii = 1, upper-case = 0, lower-case = 0, digits = 1, spaces = 0 out of 1 bytes
+ascii = 1, upper-case = 0, lower-case = 0, digits = 1, spaces = 0 out of 1 bytes
+ascii = 1, upper-case = 0, lower-case = 0, digits = 1, spaces = 0 out of 1 bytes
+ascii = 1, upper-case = 0, lower-case = 0, digits = 1, spaces = 0 out of 1 bytes
+ascii = 1, upper-case = 0, lower-case = 0, digits = 1, spaces = 0 out of 1 bytes
+ascii = 1, upper-case = 0, lower-case = 0, digits = 1, spaces = 0 out of 1 bytes
+ascii = 0, upper-case = 0, lower-case = 0, digits = 0, spaces = 0 out of 0 bytes
+ascii = 0, upper-case = 0, lower-case = 0, digits = 0, spaces = 0 out of 0 bytes
+ascii = 0, upper-case = 0, lower-case = 0, digits = 0, spaces = 0 out of 0 bytes
+ascii = 0, upper-case = 0, lower-case = 0, digits = 0, spaces = 0 out of 0 bytes
+kgarg@autoreg-4848343 proj2 % ./proj2 hello.txt p16
+ascii = 1, upper-case = 0, lower-case = 0, digits = 1, spaces = 0 out of 1 bytes
+ascii = 1, upper-case = 0, lower-case = 0, digits = 1, spaces = 0 out of 1 bytes
+ascii = 1, upper-case = 0, lower-case = 0, digits = 1, spaces = 0 out of 1 bytes
+ascii = 1, upper-case = 0, lower-case = 0, digits = 1, spaces = 0 out of 1 bytes
+ascii = 1, upper-case = 0, lower-case = 0, digits = 1, spaces = 0 out of 1 bytes
+ascii = 1, upper-case = 0, lower-case = 0, digits = 1, spaces = 0 out of 1 bytes
+ascii = 0, upper-case = 0, lower-case = 0, digits = 0, spaces = 0 out of 0 bytes
+ascii = 0, upper-case = 0, lower-case = 0, digits = 0, spaces = 0 out of 0 bytes
+ascii = 0, upper-case = 0, lower-case = 0, digits = 0, spaces = 0 out of 0 bytes
+ascii = 0, upper-case = 0, lower-case = 0, digits = 0, spaces = 0 out of 0 bytes
+ascii = 0, upper-case = 0, lower-case = 0, digits = 0, spaces = 0 out of 0 bytes
+ascii = 0, upper-case = 0, lower-case = 0, digits = 0, spaces = 0 out of 0 bytes
+ascii = 0, upper-case = 0, lower-case = 0, digits = 0, spaces = 0 out of 0 bytes
+ascii = 0, upper-case = 0, lower-case = 0, digits = 0, spaces = 0 out of 0 bytes
+ascii = 0, upper-case = 0, lower-case = 0, digits = 0, spaces = 0 out of 0 bytes
+ascii = 0, upper-case = 0, lower-case = 0, digits = 0, spaces = 0 out of 0 bytes
+kgarg@autoreg-4848343 proj2 %                      
+
+
+
+
+
+
+
+
